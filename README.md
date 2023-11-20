@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Guy.
+- 👋 Hi, I’m Guy9407.
 - 👀 I’m interested in programming random shit on the internet.
-- 🌱 I’m currently learning python mainly.
-- 💞️ If you'd like to collab, hmu.
-- 📫 Discord: Guy#3799
+- 🌱 I’m currently studying python, c# and java.
+- 📫 Discord: Guyod
 
 <!---
 Guy9407/Guy9407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
